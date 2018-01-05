@@ -28,6 +28,8 @@ public class Window extends JFrame implements MouseListener{
 	public static void main(String[] args) {
 		
 		
+		//I use way to many static variables, I don't most of the time but because I had a very tight time limit I did
+		
 		w = new Window(); //Sets global variable w to new Window();
 
 		
