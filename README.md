@@ -1,2 +1,3 @@
 # flappybird
-This project I made in two days to test my current skills of Java, and somewhat show what my abilities are in coding.
+A PROJECT TO BOAST :) but simple. This was soooo easy took me like 2 seconds, and a day or so, I did with my eyes closed no one taught me 
+because I AM SOOOOOO GOOD.
